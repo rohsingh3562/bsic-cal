@@ -101,13 +101,13 @@ input[value="="] {
   color: rgb(43, 255, 43);
   background: rgb(43, 255, 43);
   box-shadow: 3px 3px 33px rgba(7, 225, 72, 0.9), -3px -3px 12px #0be00b;
-  background-image: url("logos/equals-solid .svg");
+  background-image: url("equals-solid .svg");
   background-repeat: no-repeat;
   background-position: center;
 }
 
 input[value="="]:focus {
-  background-image: url("logos/equals-solid .svg");
+  background-image: url(" equals-solid .svg");
   background-repeat: no-repeat;
   background-position: center;
   color: transparent;
@@ -125,7 +125,7 @@ input[value="clear"] {
 }
 
 input[value="sqrt"] {
-  background-image: url("logos/square-root-variable-solid\ \(1\).svg");
+  background-image: url("square-root-variable-solid\ \(1\).svg");
   background-repeat: no-repeat;
   background-position: center;
   color: transparent;
@@ -133,14 +133,14 @@ input[value="sqrt"] {
 }
 
 input[value="sqrt"]:focus {
-  background-image: url("logos/square-root-variable-solid\ \(1\).svg");
+  background-image: url("square-root-variable-solid\ \(1\).svg");
   background-repeat: no-repeat;
   background-position: center;
   color: transparent;
 }
 
 input[value="Del"] {
-  background-image: url("logos/delete-left-solid.svg");
+  background-image: url("delete-left-solid.svg");
   background-repeat: no-repeat;
   background-position: center;
   color: transparent;
@@ -148,14 +148,14 @@ input[value="Del"] {
 }
 
 input[value="Del"]:focus {
-  background-image: url("logos/delete-left-solid.svg");
+  background-image: url("delete-left-solid.svg");
   background-repeat: no-repeat;
   background-position: center;
   color: transparent;
 }
 
 input[value="%"] {
-  background-image: url("logos/percent-solid\ \(1\).svg");
+  background-image: url("percent-solid\ \(1\).svg");
   background-repeat: no-repeat;
   background-position: center;
   color: transparent;
@@ -163,13 +163,13 @@ input[value="%"] {
 }
 
 input[value="%"]:focus {
-  background-image: url("logos/percent-solid\ \(1\).svg");
+ YDOMUXX X                                                                                                                                                                                   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-solid\ \(1\).svg");
   background-repeat: no-repeat;
   background-position: center;
 }
 
 input[value="*"] {
-  background-image: url("logos/xmark-solid\ \(1\).svg");
+  background-image: url("lxmark-solid\ \(1\).svg");
   background-repeat: no-repeat;
   background-position: center;
   color: transparent;
@@ -177,13 +177,14 @@ input[value="*"] {
 }
 
 input[value="*"]:focus {
-  background-image: url("logos/xmark-solid\ \(1\).svg");
+  background-image: url("xmark-solid\ \(1\).svg");
   background-repeat: no-repeat;
   background-position: center;
 }
 
 input[value="/"] {
-  background-image: url("logos/divide-solid\ \(1\).svg");
+  
+  background-image: url("divide-solid\ \(1\).svg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: 25px;
@@ -191,12 +192,12 @@ input[value="/"] {
 }
 
 input[value="/"]:focus {
-  background-image: url("logos/divide-solid\ \(1\).svg");
+  background-image: url("divide-solid\ \(1\).svg");
   background-repeat: no-repeat;
   background-position: center;
 }
 input[value="+"] {
-  background-image: url("logos/plus-solid\ \(1\).svg");
+  background-image: url("plus-solid\ \(1\).svg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: 25px;
@@ -204,12 +205,12 @@ input[value="+"] {
 }
 
 input[value="+"]:focus {
-  background-image: url("logos/plus-solid\ \(1\).svg");
+  background-image: url("plus-solid\ \(1\).svg");
   background-repeat: no-repeat;
   background-position: center;
 }
 input[value="-"] {
-  background-image: url("logos/minus-solid\ \(1\).svg");
+  background-image: url("minus-solid\ \(1\).svg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: 25px;
@@ -217,7 +218,7 @@ input[value="-"] {
 }
 
 input[value="-"]:focus {
-  background-image: url("logos/minus-solid\ \(1\).svg");
+  background-image: url("minus-solid\ \(1\).svg");
   background-repeat: no-repeat;
   background-position: center;
 }
