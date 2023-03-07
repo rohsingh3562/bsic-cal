@@ -163,7 +163,7 @@ input[value="%"] {
 }
 
 input[value="%"]:focus {
-  background-image: url("percent-solid\ \(1\).svg");                                                                                                                                                                     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-solid\ \(1\).svg");
+  background-image: url("percent-solid\ \(1\).svg");                                                                                                                                                                     
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -264,7 +264,7 @@ input[value="-"]:focus {
 @media only screen and (min-width: 700px) {
   /* Your CSS code here */
   .calculator{
-    width: 80%;
+    width: 70%;
     min-height: 90%;
     display: flex;
   }
@@ -297,7 +297,7 @@ input[value="-"]:focus {
 @media only screen and (min-width: 992px) {
   /* Your CSS code here */
   .calculator{
-    width: 80%;
+    width: 50%;
     min-height: 60%;
   }
   input[type="button"] {
