@@ -163,13 +163,13 @@ input[value="%"] {
 }
 
 input[value="%"]:focus {
- YDOMUXX X                                                                                                                                                                                   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-solid\ \(1\).svg");
+  background-image: url("percent-solid\ \(1\).svg");                                                                                                                                                                     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-solid\ \(1\).svg");
   background-repeat: no-repeat;
   background-position: center;
 }
 
 input[value="*"] {
-  background-image: url("lxmark-solid\ \(1\).svg");
+  background-image: url("xmark-solid\ \(1\).svg");
   background-repeat: no-repeat;
   background-position: center;
   color: transparent;
@@ -232,7 +232,8 @@ input[value="-"]:focus {
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (max-width: 00px) {
   /* Your CSS code here */
-  .calculator{
+  .calculator {
+    margin-top :5px;
     width: 80%;
     min-height: 500px;
     display: flex;
